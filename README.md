@@ -1,4 +1,4 @@
-# Recession_forcast_models
+# Recession_forecast_models
 
 There is a long tradition in business cycle analysis of separating periods in which there is broad economic growth, called expansions, from periods of broad economic contraction, called recessions. Understanding these phases and the transitions between them has been the focus of much macroeconomic research over the past century. 
 
